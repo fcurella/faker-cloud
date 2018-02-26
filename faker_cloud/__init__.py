@@ -3,7 +3,7 @@ VERSION = (0, 1)
 __version__ = '.'.join([str(i) for i in VERSION])
 __author__ = 'Anthony Monthe (ZuluPro)'
 __email__ = 'anthony.monthe@gmail.com'
-__url__ = 'https://github.com/ZuluPro/faker_cloud/'
+__url__ = 'https://github.com/ZuluPro/faker-cloud/'
 __license__ = 'BSD'
 __keywords__ = ['cloud', 'test', 'faker', 'amazon web services', 'ec2', 's3',
                 'upcloud']
